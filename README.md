@@ -3,7 +3,7 @@
 - 🔭 I have also a background on software engineering.
 - 🌱 I’m currently pursuing my master's degree at Beihang university. 
 - 💬 My research topic include both software and computer vision techniques.    
-- ⚡ 2021 Goals: 1- master the common deep learning frameworks. 2- work on my graduation thesis. 3- publish at least one computer vision paper.
+- ⚡ Goals: 1- master the common deep learning frameworks. 2- work on my graduation thesis. 3- publish at least one computer vision paper.
 - ⚡ Fun fact: I hope everyone enjoy or learn something from my repositories, I am open to suggestion and criticism. 
 **Thanks** 
 <!--
