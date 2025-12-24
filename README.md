@@ -1,9 +1,6 @@
 ### Hi there 👋, I am Soilihi or simply SAM. 
-- 🔭 I’m interested in computer vision. 
-- 🔭 I'm also interested on mobile developpement using flutter because i have a background on software engineering.
-- 🌱 I’m currently pursuing my master's degree at Beihang university. 
-- 💬 My research topic include both software and computer vision techniques.    
-- ⚡ Goals: 1- master the common deep learning frameworks. 2- work on my graduation thesis. 3- publish at least one computer vision paper.
+- 🔭 I’m interested in Software engineering and computer vision. 
+- 🌱 I got my master's degree at my master's degree at Beihang university and Currently working at MingYang Smart Energy. 
 - ⚡ Fun fact: I hope everyone enjoy or learn something from my repositories, I am open to suggestion and criticism. 
 **Thanks** 
 <!--
