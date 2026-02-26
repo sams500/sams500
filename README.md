@@ -1,4 +1,4 @@
-### Hi there 👋, I am Soilihi or simply SAM. 
+### Hi there 👋, I am Soilihi Abderemane or simply SAM. 
 - 🔭 I’m interested in Software engineering and computer vision. 
 - 🌱 I got my master's degree at my master's degree at Beihang university and Currently working at MingYang Smart Energy. 
 - ⚡ Fun fact: I hope everyone enjoy or learn something from my repositories, I am open to suggestion and criticism. 
